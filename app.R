@@ -382,7 +382,7 @@ ui <- fluidPage(
     column(12, 
            br(), br(),
     p(align="center", "Avatars from", a(href="https://getavataaars.com/", "Avataaars")),
-    p(align="center", "Qauils from", a(href="https://www.vecteezy.com/free-vector/bird", "Vecteezy"))
+    p(align="center", "Quails from", a(href="https://www.vecteezy.com/free-vector/bird", "Vecteezy"))
     )
   )
   )
